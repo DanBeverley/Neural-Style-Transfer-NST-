@@ -1,0 +1,6 @@
+Python 3.x
+TensorFlow
+Matplotlib
+NumPy
+IPython
+PIL (Pillow)
